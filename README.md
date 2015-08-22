@@ -1,6 +1,11 @@
 DuskStarshimmer
 ===============
 
-Deep blue earth pony, Green eyes, Brown Hair.
+Deep blue earth pony, Green eyes, Brown Hair. Wears white vest, and thick
+corrective glasses. Talents for computing, astronomy, and stringed instruments.
 
-![cc-by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+| Pony: | ![happy-pony](./author-oblivionfall/DuskStarshimmer_0043.png) |
+| --- | --- |
+| Cutiemark: | <img alt="cutiemark" src="./author-oblivionfall/cutimark.png" width="128" height="128" /> |
+
+![cc-by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png) (Be sure to credit the correct authors!)
